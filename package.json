@@ -1,0 +1,24 @@
+{
+  "name": "2026_odinminimsgboard",
+  "version": "1.0.0",
+  "description": "This is a simple full-stack-style project using Node.js, Express, and EJS. It allows users to view a list of messages, submit new entries, and access detailed message pages. It demonstrates essential concepts like routing, templates, middleware, and handling form data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanneBlocks/2026_OdinMiniMsgBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanneBlocks/2026_OdinMiniMsgBoard/issues"
+  },
+  "homepage": "https://github.com/joanneBlocks/2026_OdinMiniMsgBoard#readme",
+  "dependencies": {
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+  }
+}
